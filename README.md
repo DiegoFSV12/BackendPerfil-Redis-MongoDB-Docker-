@@ -3,13 +3,9 @@ Proyecto de practica para utilizar redis en un login y registro de usuarios, usa
 
 ## Iniciar proyecto
 
-npm i
-<<<<<<< HEAD
-docker compose up -d
-=======
+* npm i
 
-docker compose up -D
+* docker compose up -d
 
->>>>>>> 1a91fad0bffd33164c211004662a05e7c9587e09
-node .\src\index.js
+* node .\src\index.js
 
